@@ -2,6 +2,15 @@
 _____________________________________________________________________________________
 
 ### Yo soy Hilario Rodríguez 😁 un apasionado chico que busca ser un pro en el derrollo web 😎👨‍💻 soy muy autodidacta y bastante enfocado
+______________________________________________________________________________________
+
+### 😉 Acerca de mí:
+______________________________________________________________________________________
+- Me gusta trabajar en equipo.
+- Amo el mundo del desarrollo web
+- Me gusta colaboras en proyetos
+- Aposionado por aprender mas y mas
+
 
 <!--
 **mrdebugcode/mrdebugcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
