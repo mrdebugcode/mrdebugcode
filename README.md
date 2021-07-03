@@ -8,8 +8,8 @@ ________________________________________________________________________________
 ### 😉 Acerca de mí:
 - Me gusta trabajar en equipo.
 - Amo el mundo del desarrollo web
-- Me gusta colaboras en proyetos
-- Aposionado por aprender mas y mas
+- Me gusta colaborar en proyetos
+- Aposionado por aprender más y más
 
 
 <!--
