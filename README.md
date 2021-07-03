@@ -4,8 +4,8 @@ ________________________________________________________________________________
 ### Yo soy Hilario Rodríguez 😁 un apasionado chico que busca ser un pro en el derrollo web 😎👨‍💻 soy muy autodidacta y bastante enfocado
 ______________________________________________________________________________________
 
+
 ### 😉 Acerca de mí:
-______________________________________________________________________________________
 - Me gusta trabajar en equipo.
 - Amo el mundo del desarrollo web
 - Me gusta colaboras en proyetos
