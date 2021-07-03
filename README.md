@@ -1,7 +1,7 @@
 ### Bienvenido a mi perfil de Github 😄
 _____________________________________________________________________________________
 
-### Yo soy Hilario Rodríguez 😁 un apasionado chico que busca ser un pro en el derrollo web, soy muy autodidacta y bastante enfocado
+### Yo soy Hilario Rodríguez 😁 un apasionado chico que busca ser un pro en el derrollo web 😎👨‍💻 soy muy autodidacta y bastante enfocado
 
 <!--
 **mrdebugcode/mrdebugcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
