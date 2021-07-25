@@ -13,6 +13,13 @@ ________________________________________________________________________________
 - 🚀 Founder [@ElPerlaNegra](https://github.com/elperlanegra) open source organizations
 - ⚡ I love to learn new things and ready to help others
 
+### Find me at 🤖 👇:
+
+[![Twitter](https://img.shields.io/badge/Twitter-@HilarioMontene4-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/HilarioMontene4)
+[![Instagram](https://img.shields.io/badge/Instagram-@winy_paint-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/winy_paint)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-manuelduarte077-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuelduarte077)
+ -->
+ 
 **Skills 🚀**
 
 [![](https://img.shields.io/badge/ReactJS-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
@@ -23,7 +30,6 @@ ________________________________________________________________________________
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)]()
 [![Typescript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=Typescript&logoColor=22272E&labelColor=f0f0f0)]()
-
 
 
 <h3 align="center">GITHUB STATS<hr/></h3>
